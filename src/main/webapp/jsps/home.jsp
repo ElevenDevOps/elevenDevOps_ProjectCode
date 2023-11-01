@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>skyDevops- Home Page</title>
+<title>elevenDevopsWebsite- Home Page</title>
 <link href="images/vvsagarlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to Devops Classes.</h1>
 <h1 align="center">Hello all, welcome, i am Bharath</h1>
-<h1 align="center"> we are providing training on DevOps & cloud technologies, we are located in VijayaNagara, Bengaluru and we will also provide placements across reknown IT companies..</h1>
+<h1 align="center"> we are providing training on DevOps, cloud & testing courses, we are located in VijayaNagara, Bengaluru and we will also provide placements across reknown IT companies..</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
